@@ -11,5 +11,5 @@ Desgining a system to control the DC motor using two relies
 
 #### **The explenation**:
 
-The L298N driver can work with motors up to 2A, but what if the input current of motor is more than 2 A? we using rely. The relay isolation the control circuit from the load circuit **completely** 
+The L298N driver can work with motors up to 2A, but what if the input current of motor is more than 2 A? we are using rely. The relay isolate the control circuit from the load circuit **completely**.
 
