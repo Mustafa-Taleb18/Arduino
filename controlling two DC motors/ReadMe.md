@@ -10,7 +10,7 @@ Desgining a system to control the speed and the direction of two high current DC
 
 #### **The explenation**:
 
-The most simple and famous of electric motors is the **DC motor**. It can rotate by clockwise directin or the oppiste direction.It works by high torqe and low speed.
+There are two types of DC motors: The first is **Brushed DC**, it's The cheapest and samplest motor, and the seconde is **Brushless DC**, it's higher efficiency, but more complicated.
 Usually uses in toys and moving vehicles like *Wheeled Mobile Robots (WMR)*. We use two motors to simulate the control of Wheeled Mobile Robots, each motor is control the wheel of one side.
 
 The speed controlling is implement by *software*, but ofcourse we can use a variable resistor to control the speed.
