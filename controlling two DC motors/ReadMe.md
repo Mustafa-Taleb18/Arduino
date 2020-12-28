@@ -15,4 +15,4 @@ Usually uses in toys and moving vehicles like *Wheeled Mobile Robots (WMR)*. We 
 
 The speed controlling is implement by *software*, but ofcourse we can use a variable resistor to control the speed.
 
-There are two functions of L298 motor driver, the first is to operate the motor in two direction and the seconde is to oprate the motors theat consumed more current than Arduino output.
+There are two functions of L298 motor driver, the first is to operate the motor in two direction and the seconde is to oprate the motor that consumed more current than Arduino output.
