@@ -11,8 +11,8 @@ Desgining a system to control the speed and the direction of two high current DC
 #### **The explenation**:
 
 The most simple and famous of electric motors is the **DC motor**. It can rotate by clockwise directin or the oppiste direction.It works by high torqe and low speed.
-Usually uses in toys and moving vehicles like *Wheeled Mobile Robots (WMR)*. We use two motors to simulte the control of Wheeled Mobile Robots, each motor is control the wheel of one side.
+Usually uses in toys and moving vehicles like *Wheeled Mobile Robots (WMR)*. We use two motors to simulate the control of Wheeled Mobile Robots, each motor is control the wheel of one side.
 
-The speed contrllong is implement by *software*, but ofcourse we can use a variable resistor to control the speed.
+The speed controlling is implement by *software*, but ofcourse we can use a variable resistor to control the speed.
 
-There are two functions of L298 motor driver, the first is to oprate the motor in two direction and the seconde is to oprate the motors theat consumed more current than Arduino output.
+There are two functions of L298 motor driver, the first is to operate the motor in two direction and the seconde is to oprate the motors theat consumed more current than Arduino output.
