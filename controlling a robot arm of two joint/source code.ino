@@ -1,4 +1,4 @@
-/ code to control two DOF of a robot arm
+// code to control two DOF of a robot arm
 // BY: Mustafa Taleb
 
 #include <LiquidCrystal.h>
