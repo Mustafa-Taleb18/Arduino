@@ -1,5 +1,5 @@
 // code to control two DOF of a robot arm
-// BY: Mustafa Taleb
+// BY Eng: Mustafa Taleb
 
 #include <LiquidCrystal.h>
 #include <Keypad.h>
